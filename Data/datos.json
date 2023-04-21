@@ -1,0 +1,64 @@
+{
+    "Personajes": [
+        {
+            "id": 1,
+            "nombre": "Harry Potter",
+            "casa": "Gryffindor",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682028405/RetoNumeroTres/39713_pxvk5k.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Hermione Granger",
+            "casa": "Gryffindor",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682028497/RetoNumeroTres/1200_p3n9c3.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Ron Weasley",
+            "casa": "Gryffindor",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682028619/RetoNumeroTres/ron-weasley-order-of-the-phoenix-portrait-3_deub4k.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Luna Lovegood",
+            "casa": "Ravenclaw",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682028822/RetoNumeroTres/Luna_Lovegood_q3yvxy.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Dobby",
+            "casa": "Dobby es un elfo libre",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682029039/RetoNumeroTres/latest_uopkdq.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Draco Malfoy",
+            "casa": "Slytherin",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682029398/RetoNumeroTres/220px-Draco_Mal_bjwgrs.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Albuss Dumbledore",
+            "casa": "Gryffindor",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682029585/RetoNumeroTres/423_xuiwzk.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Cedric Diggory.",
+            "casa": "Hufflepuff",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682029709/RetoNumeroTres/Robert-Pattinson-The-Batman_zaouiz.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "voldemort",
+            "casa": "Slytherin",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682029961/RetoNumeroTres/latest_yyjw4s.png"
+        },
+        {
+            "id": 10,
+            "nombre": "Severus Snape",
+            "casa": "Slytherin",
+            "foto": "https://res.cloudinary.com/dv6bpqh7d/image/upload/v1682029935/RetoNumeroTres/Ootp076_wfemap.jpg"
+        }
+    ]
+}
